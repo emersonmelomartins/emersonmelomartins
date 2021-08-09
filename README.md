@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou o Emerson, muito prazer!</h1>
-<h3 align="center">Sou um eterno aprendiz e apaixonado pelo desenvolvimento web 🤓</h3>
+<h1 align="center">Oi 👋, Eu sou o Emerson!</h1>
+<h3 align="center">Entusiasta de técnologias e atualmente com foco em desenvolvimento web.</h3>
 
 <br/>
 
@@ -7,7 +7,7 @@ Bem vindo ao meu github, aqui você encontrará projetos pessoais, projetos acad
 
 <br/>
 
-- 📚 Atualmente no 4ª Semestre de Análise e Desenvolvimento de Sistemas na [Faculdade Pentagono](https://fapen.edu.br);
+- 📚 Atualmente no 5ª Semestre de Análise e Desenvolvimento de Sistemas na [Faculdade Pentagono](https://fapen.edu.br);
 
 - 💻 Atuando como Front-end em uma empresa de consultoria de TI em alguns projetos;
 
