@@ -11,7 +11,7 @@ Bem vindo ao meu github, aqui você encontrará projetos pessoais, projetos acad
 
 - 💻 Atuando como Front-end em uma empresa de consultoria de TI em projetos para diversos clientes;
 
-- 🌱 No momento estou aprendendo **Flutter, React, C#**;
+- 🌱 No momento estou aprendendo **NextJS e Flutter**;
 
 - 📫 Me dê um alô no e-mail **emerson25xd@gmail.com**;
 
