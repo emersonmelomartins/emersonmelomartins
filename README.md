@@ -11,7 +11,7 @@ Bem vindo ao meu github, aqui você encontrará projetos pessoais, projetos acad
 
 - 💻 Focado em estudos em busca de novas oportunidades;
 
-- 🌱 No momento estou aprendendo **NodeJS**;
+- 🌱 No momento estou aprendendo **NodeJS** pelo bootcamp da [Rocketseat](https://www.rocketseat.com.br/);
 
 - 📫 Me dê um alô no e-mail **emerson25xd@gmail.com**;
 
