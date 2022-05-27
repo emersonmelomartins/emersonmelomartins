@@ -9,7 +9,7 @@ Bem vindo ao meu github, aqui você encontrará projetos pessoais, projetos acad
 
 - 📚 Formado em Análise e Desenvolvimento de Sistemas na [Faculdade Pentagono](https://fapen.edu.br) em dez/2021;
 
-- 💻 Atuando como Front-end em uma empresa de consultoria de TI em projetos para diversos clientes;
+- 💻 Focado em estudos em busca de novas oportunidades;
 
 - 🌱 No momento estou aprendendo **NodeJS**;
 
